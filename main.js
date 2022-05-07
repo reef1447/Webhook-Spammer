@@ -3,8 +3,8 @@
     var h = $("<div>").appendTo($("body").css({
         "text-align": "center"
     }));
-    $("<div>",{text:"最終更新：2020/08/02 1:31"}).appendTo(h);
-    $("<h1>",{text:"DiscordのWebhookテスト"}).appendTo(h);
+    $("<div>",{text:"最終更新：2022/05/08 1:31"}).appendTo(h);
+    $("<h1>",{text:"Webhook-Spammer"}).appendTo(h);
     var input_webhook = addInput("Webhook URL","https://discordapp.com/api/webhooks/000000000000000000/aaaaaaaaaaaaaaaaaaaaaaaaa");
     var input_username = addInput("名前");
     var input_avatar = addInput("アバター画像","https://github.com/qiita.png");
