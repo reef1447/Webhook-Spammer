@@ -1,1 +1,1 @@
-# Discord-Webhook-Spammer-2
+# For educational purposes only.
